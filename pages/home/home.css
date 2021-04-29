@@ -1,0 +1,25 @@
+
+h2{
+  color: #7e06c4;
+}
+
+p {
+  color: black;
+  font-family: 'Times New Roman';
+  text-align: justify;
+}
+
+a {
+  color: #000000
+}
+
+button {
+  background-color: #00b4db;
+
+}
+
+
+
+ion-content {
+   background: linear-gradient(to right, #00b4db, #0083b0);
+}
